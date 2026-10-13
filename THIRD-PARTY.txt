@@ -1,0 +1,9 @@
+Original application: MIT (LICENSE).
+WebLLM 0.2.85: Apache-2.0 (WEBLLM-LICENSE.txt; https://github.com/mlc-ai/web-llm).
+Qwen2.5-0.5B-Instruct: Apache-2.0 (https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct).
+MLC conversion: https://huggingface.co/mlc-ai/Qwen2.5-0.5B-Instruct-q4f16_1-MLC
+Model files pinned to publisher commit 32ff081fe7e4dfe4ffb167b94c66fdf11e02b8ad.
+Compiled model library follows WebLLM's v0_2_84/base record.
+Weights are downloaded on the visitor's explicit action; none are included in the source archive.
+esbuild 0.25.5: MIT (https://github.com/evanw/esbuild).
+API-provided Qloo content is not relicensed by this application's MIT source license.

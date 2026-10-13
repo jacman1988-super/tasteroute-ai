@@ -1,0 +1,19 @@
+{
+  "name": "tasteroute-ai-public",
+  "version": "0.5.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate-artifact.mjs",
+    "test": "node --test agent.test.mjs model-queue.test.mjs worker/api.test.mjs",
+    "dev": "node --env-file-if-exists=.env.local server-preview.mjs"
+  },
+  "dependencies": {
+    "@mlc-ai/web-llm": "0.2.85"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.5"
+  }
+}

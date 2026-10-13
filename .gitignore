@@ -1,0 +1,10 @@
+dist/
+site.tar.gz
+node_modules/
+.env*
+*.log
+.sites-local/
+.sites-runtime/
+
+worker/index.js
+!.env.example

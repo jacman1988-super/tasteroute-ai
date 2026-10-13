@@ -14,7 +14,7 @@ These are visit ideas, not a timed itinerary. The app does not invent opening ho
 
 Use current Chrome/Edge on a desktop with WebGPU and about 1 GB of GPU memory. First use downloads about 290 MB of model files plus runtime/tokenizer assets from Hugging Face and MLC's GitHub repository. Wait for **AI is ready on this device**. No model-service account or API key is required; inference runs on-device.
 
-First scenario: Lisbon, 2 days, Calm, Coffee. Find interests; select **Coffee / urn:tag:cuisine:qloo**; start AI; let AI choose places. On October 13 actual local Chrome returned Matoli Gelato and completed both genuine Qwen decisions. Other tags/cities can return different or empty results. No fixture fallback is used. `DEPLOYMENT.txt` and `VERIFICATION.json` record hosted status after deployment.
+First scenario: Lisbon, 2 days, Calm, Coffee. Find interests; select **Coffee / urn:tag:cuisine:qloo**; start AI; let AI choose places. On October 13 actual public Chrome returned Matoli Gelato and completed both genuine Qwen decisions. Other tags/cities can return different or empty results. No fixture fallback is used. `DEPLOYMENT.txt` and `VERIFICATION.json` record hosted status after deployment.
 
 ## Build
 

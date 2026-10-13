@@ -1,0 +1,22 @@
+{
+  "publicUrl": "https://tasteroute-ai.stillmole8.chatgpt.site",
+  "deploymentState": "succeeded",
+  "siteVersion": 3,
+  "sourceCommit": "617871c2134dc02d282c9bffc7b10f94e888be27",
+  "publicQlooVerified": true,
+  "publicLocalModelVerified": true,
+  "liveScenario": {
+    "city": "Lisbon",
+    "interest": "Coffee / urn:tag:cuisine:qloo",
+    "model": "Qwen2.5-0.5B-Instruct-q4f16_1-MLC",
+    "trace": [
+      "recommend_places",
+      "Qloo returns 1 place",
+      "select_places"
+    ],
+    "place": "Matoli Gelato"
+  },
+  "syntheticTests": 13,
+  "coverageLimit": "One real public browser scenario; synthetic API tests do not establish live provider failure coverage.",
+  "devpostSubmission": "Draft awaiting final human confirmation"
+}

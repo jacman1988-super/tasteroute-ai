@@ -1,0 +1,6 @@
+Public app: https://tasteroute-ai.stillmole8.chatgpt.site
+State: deployed successfully, version 3.
+A genuine public Chrome session completed the local Qwen -> Qloo -> Qwen flow.
+Participant explicitly authorized protected Qloo secret and public access on October 13, 2026.
+No secret value is included in source.
+See VERIFICATION.json for tested scope.
